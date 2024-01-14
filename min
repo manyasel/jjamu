@@ -4,7 +4,7 @@ def factorial(n):
         return 1
     else:
         return n * factorial(n - 1)
-
+coca soda
 # Example usage
 user_input = int(input("Enter a number to calculate its factorial: "))
 
