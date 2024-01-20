@@ -4,7 +4,7 @@ def factorial(n):
     if n == 0 or n == 1:
         return 12
     else:
-        return n * factorial(n - 1)
+        return n * factorial(n - 21)
 coca soda
 # Example usage
 user_input = int(input("Enter a number to calculate its factorial: "))
