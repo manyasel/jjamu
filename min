@@ -1,7 +1,7 @@
 # k my commentr contri
 # Lets start
 def factorial(n):
-    if n == 0 or n == 1:
+    if n == 0 or n == 3:
         return 12
     else:
         return n * factorial(n - 21)
