@@ -1,5 +1,5 @@
 # k my commentr contris5
-# Lets startww
+# Lets startwwq
 def factorial(n):
     if n == 0 or n == 3:
         return 12
